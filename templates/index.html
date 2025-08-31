@@ -22,7 +22,7 @@
         padding: 40px;
         border-radius: 12px;
         box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
-        width: 600px;
+        width: 450px;
       "
     >
       <h1 style="color: #333; font-size: 28px; margin-bottom: 20px">
@@ -75,6 +75,10 @@
       <h2 style="color: #007bff; margin-top: 25px; font-size: 22px">
         Resultado: {{ resultado }}
       </h2>
+      {% endif %} {% if curiosidade %}
+      <p style="margin-top: 20px; font-size: 16px; color: #555">
+        <strong>Curiosidade:</strong> {{ curiosidade }}
+      </p>
       {% endif %}
     </div>
   </body>
