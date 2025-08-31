@@ -19,7 +19,7 @@ Esta aplicação é uma demonstração do projeto de intervenção para a situa�
 Uma versão funcional desta aplicação poderá ser hospedada em serviços como **Render**, **Railway** ou **Heroku**.
 
 **Exemplo de URL:**
-[https://par-ou-impar.onrender.com](https://par-ou-impar.onrender.com)
+[https://par-ou-impar-5crc.onrender.com/](https://par-ou-impar-5crc.onrender.com/)
 
 ![Demonstração](./assets/demo-par-impar.gif)
 
