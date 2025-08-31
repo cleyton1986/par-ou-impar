@@ -21,7 +21,7 @@ Uma versão funcional desta aplicação poderá ser hospedada em serviços como 
 **Exemplo de URL:**
 [https://par-ou-impar.onrender.com](https://par-ou-impar.onrender.com)
 
-![Demonstração](./assets/demo.gif)
+![Demonstração](./assets/demo-par-impar.gif)
 
 > **Nota:** Em hospedagens gratuitas, a aplicação pode levar até 30 segundos para carregar no primeiro acesso, pois o serviço "adormece" após períodos de inatividade.
 
